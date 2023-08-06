@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">APExercise6</string>
+    <string name="app_quiz">QUIZ TIME</string>
+    <string name="app_start">START</string>
+    <string name="app_question1">Question No.1</string>
+    <string name="app_firstQuestion"> Where is Disney\'s European theme park located?</string>
+    <string name="app_1A">명</string>
+    <string name="app_1B">마리</string>
+    <string name="app_1C">잔</string>
+    <string name="app_1D">시간</string>
+    <string name="app_il">아저씨, 이 생선 얼마예요  ?    나：한 ________ 에 2,000 원이에요  .</string>
+    <string name="app_Next">다음</string>
+    <string name="app_SecondQuestion">다음 그림을 보고 맞는 단어나 문장을 고르십시오</string>
+    <string name="app_2A"> 가방</string>
+    <string name="app_2B">공책</string>
+    <string name="app_2C">수첩</string>
+    <string name="app_2D">안경</string>
+    <string name="app_3rdQuestion"> ......덥습니다.바다에서 \n수영합니다</string>
+    <string name="app_3A"> 여름</string>
+    <string name="app_3B">날씨</string>
+    <string name="app_3C">나이</string>
+    <string name="app_3D">나라</string>
+    <string name="app_4thQuestion">  가：머리가 많이 아파요. \n나：머리가 아프면  ________ 을 /를 드세요 그건 처방전 없이 약국에서 살 수 있어요.</string>
+    <string name="app_4A"> 치약</string>
+    <string name="app_4B">두통약</string>
+    <string name="app_4C">항생제</string>
+    <string name="app_4D">소화제</string>
+    <string name="app_5thQuestion">다음 그림을 보고 맞는 단어나 문장을 고르십시오</string>
+    <string name="app_5A"> 기차</string>
+    <string name="app_5B"> 자전거</string>
+    <string name="app_5C"> 비행기</string>
+    <string name="app_5D"> 고속버스</string>
+    <string name="app_6thQuestion">What is Father in Korean?</string>
+    <string name="app_6A">아버지</string>
+    <string name="app_6B">어머니</string>
+    <string name="app_6C">할아버지</string>
+    <string name="app_6D">부모님</string>
+    <string name="app_7thQuestion">What is Sunday in Korean?</string>
+    <string name="app_7A">금요일</string>
+    <string name="app_7B">월요일</string>
+    <string name="app_7C">목요일</string>
+    <string name="app_7D">일요일</string>
+    <string name="app_8thQuestion">What is another name of South Korea?</string>
+    <string name="app_8A">한국</string>
+    <string name="app_8B">대한민국</string>
+    <string name="app_8C">한식</string>
+    <string name="app_8D">1 and 2</string>
+    <string name="app_9thQuestion"> What is Mother in Korean?</string>
+    <string name="app_9A">아버지</string>
+    <string name="app_9B">어머니</string>
+    <string name="app_9C">할아버지</string>
+    <string name="app_9D">부모님</string>
+    <string name="app_10thQuestion">  What is an apple in Korean?</string>
+    <string name="app_10A">바나나</string>
+    <string name="app_10B">딸기</string>
+    <string name="app_10C">사과</string>
+    <string name="app_10D">오렌지</string>
+    <string name="congratulations">CONGRATULATION!</string>
+    <string name="try_again">SORRY! TRY AGAIN</string>
+    <string name="app_tryAgain">Try Again \n다시</string>
+
+
+
+</resources>
